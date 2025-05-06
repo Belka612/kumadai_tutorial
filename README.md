@@ -60,13 +60,13 @@ kumadai_tutorial/
 │└─ main.py # VOICEVOX 単体利用  
 ├─ stage3_conversation/  
 │└─ main.py # 録音 → 文字起こし → Gemini → VOICEVOX 応答  
-
+├─ conversation_demo.py # 応用例
 --- 
 
 ## 詳細な手順・解説
 チュートリアルの詳しい進め方や補足情報は、以下の Notion にまとめています。    
 必要に応じてこちらも参照してください：  
-Notion解説ページ  
+[Notion解説ページ](https://www.notion.so/1e66ffd29278804c9a86f34bb5b08c41?pvs=4)  
 
 ### 注意
 VOICEVOXエンジンはローカルで起動しておく必要があります。  
