@@ -61,6 +61,7 @@ kumadai_tutorial/
 ├─ stage3_conversation/  
 │└─ main.py # 録音 → 文字起こし → Gemini → VOICEVOX 応答  
 ├─ conversation_demo.py # 応用例
+
 --- 
 
 ## 詳細な手順・解説
